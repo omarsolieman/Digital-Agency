@@ -30,12 +30,12 @@
                     </div>
                     <div class="px-6 pt-6 pb-14">
                       <!-- Your code example -->
-                       Digital marketing is a powerful tool for businesses looking to reach a wider audience and achieve their goals.<br>
-                        Whether it's through social media, email campaigns, or SEO, there are many different avenues for promoting your brand online.<br>
-                        A successful digital marketing strategy involves creating compelling content, targeting the right audience, and analyzing the results to continually improve.<br>
-                        By staying up-to-date with the latest trends and techniques, businesses can stay ahead of the competition and build a strong online presence.<br>
-                        With the right approach, digital marketing can be a highly effective way to drive traffic, generate leads, and increase sales.<br>
-                        So if you're looking to take your business to the next level, consider investing in a comprehensive digital marketing strategy.<br>
+                       Digital marketing is a powerful tool for businesses <br>looking to reach a wider audience and achieve their goals.<br>
+                        Whether it's through social media, email campaigns, or SEO,<br> there are many different avenues for promoting your brand online.<br>
+                        A successful digital marketing strategy involves creating compelling content,<br> targeting the right audience, and analyzing the results to continually improve.<br>
+                        By staying up-to-date with the latest trends and techniques,<br> businesses can stay ahead of the competition and build a strong online presence.<br>
+                        With the right approach, digital marketing can be a highly effective way to drive traffic,<br> generate leads, and increase sales.<br>
+                        So if you're looking to take your business to the next level,<br> consider investing in a comprehensive digital marketing strategy.<br>
 
                     </div>
                   </div>
