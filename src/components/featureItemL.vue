@@ -16,7 +16,7 @@
               Better understand your customers
             </h2>
             <p class="mt-4 text-lg text-gray-500">
-              At ODesigns, we believe that a design should be so much more than just something nice to look at; a Website is the face of your business and the tools to a successful business. We pride ourselves on being able to help you not just design a website but also understand all aspects of what makes your business work and how to create a website that will reach out to your customers, build trust and increase sales.
+              We understand that every business is different, which is why we take the time to get to know our clients and develop customized strategies that meet their specific goals. Whether you're looking to increase website traffic, improve your online reputation, or boost sales, we have the expertise and resources to make it happen.
             </p>
             <div class="mt-6">
               <a href="#" class="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-orange-600 hover:bg-orange-700">

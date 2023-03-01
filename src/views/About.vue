@@ -11,19 +11,13 @@
         <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">About us</h3>
         <p class="mt-8 text-lg text-gray-500"></p>
         <div class="mt-5 prose prose-indigo text-gray-500">
-          <p>ODesigns is a web design and development company based in Selangor, Malaysia, </p>
-          <p>that specializes in helping small businesses create stunning and affordable online presences.</p>
-          <p>We can build you a website from the ground up or we can help you revamp your current site if it's looking tired and dated.</p>
-          <p>Our services include but are not limited to do the following.</p>
-          <ul role="list">
-            <li>Design and development of a website that suits your business.</li>
-            <li>Improving existing websites [Depends on the main technology website was built on].</li>
-            <li>And we wil also help you find a hosting service and plan that suits your website traffic and type.</li>
-          </ul>
-          <p>Availability and prices of services are variable</p>
-          <h3>How we’re different</h3>
-          <p>ODesigns offers professional website design and development services. </p>
-          <p>We are a full-service web agency that helps our clients develop websites that incorporate an aesthetic appeal, keep the information relevant, and draw in traffic from organic search results.</p>
+          <p>At our digital agency, we are passionate about helping businesses succeed in the ever-changing digital landscape. </p>
+          <p>With a team of experienced professionals, we offer a range of services that are designed to help our clients achieve their goals and grow their online presence.</p>
+          <p>We pride ourselves on our ability to stay ahead of the curve and provide innovative solutions that are tailored to each client's unique needs.</p>
+          <p>Our approach is collaborative, and we work closely with our clients to develop strategies that deliver real results.</p>
+          <p>Whether you're looking to improve your website's search engine ranking, increase social media engagement, or develop a comprehensive digital marketing plan, we have the expertise and resources to help you succeed.</p>
+          <p>At our digital agency, we are committed to providing outstanding customer service and delivering exceptional results. We believe that our success is measured by our clients' success, and we are dedicated to helping them achieve their goals.</p>
+          <p>So if you're looking for a digital agency that is passionate, innovative, and committed to your success, look no further than us. Contact us today to learn more about how we can help you take your business to the next level in the digital world.</p>
         </div>
       </div>
     </div>

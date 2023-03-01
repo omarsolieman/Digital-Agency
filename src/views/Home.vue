@@ -1,12 +1,12 @@
 <template>
-      <div class="mx-auto max-w-7xl pt-10 pb-24 sm:pb-32 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:py-40 lg:px-8 -mt-20">
-        <div class="px-6 lg:px-0 lg:pt-4 -mt-20">
+      <div class="mx-auto max-w-7xl pt-10 pb-24 sm:pb-32 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:py-20 lg:px-8">
+        <div class="px-6 lg:px-0 lg:pt-4">
           <div class="mx-auto max-w-2xl">
             <div class="max-w-lg">
               <div class="mt-24 sm:mt-32 lg:mt-16">
               </div>
               <h1 class="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Supercharge your Online Presence</h1>
-              <p class="mt-6 text-lg leading-8 text-gray-600">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
+              <p class="mt-6 text-lg leading-8 text-gray-600">Welcome to our online digital agency! We specialize in creating and executing innovative digital strategies that help businesses of all sizes reach their full potential online.</p>
               <div class="mt-10 flex items-center gap-x-6">
                 <a href="#" class="rounded-md bg-orange-600 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-orange-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Documentation</a>
                 <a href="#" class="text-base font-semibold leading-7 text-gray-900">View on GitHub <span aria-hidden="true">→</span></a>
