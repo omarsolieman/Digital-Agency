@@ -30,15 +30,12 @@
                     </div>
                     <div class="px-6 pt-6 pb-14">
                       <!-- Your code example -->
-                       Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br>
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br>
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br>
-                          It has survived not only five centuries, but also the leap into electronic typesetting,<br>
-                           remaining essentially unchanged. It was popularised in the 1960s with the release<br> of Letraset sheets containing Lorem Ipsum passages,<br>
-                        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br>
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br>
-                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br>
+                       Digital marketing is a powerful tool for businesses looking to reach a wider audience and achieve their goals.<br>
+                        Whether it's through social media, email campaigns, or SEO, there are many different avenues for promoting your brand online.<br>
+                        A successful digital marketing strategy involves creating compelling content, targeting the right audience, and analyzing the results to continually improve.<br>
+                        By staying up-to-date with the latest trends and techniques, businesses can stay ahead of the competition and build a strong online presence.<br>
+                        With the right approach, digital marketing can be a highly effective way to drive traffic, generate leads, and increase sales.<br>
+                        So if you're looking to take your business to the next level, consider investing in a comprehensive digital marketing strategy.<br>
 
                     </div>
                   </div>
